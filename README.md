@@ -8,3 +8,5 @@
 - 🌐 [Website](https://christianwilsey.vercel.app/)
 - ⛓ [Linkedin](https://www.linkedin.com/in/christianwilsey/)
 - 📫 gatorchristian@gmail.com
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=cxwils&layout=compact&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=cxwils&layout=compact&langs_count=4&theme=dark_github)
