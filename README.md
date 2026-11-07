@@ -2,7 +2,6 @@
 <h3 align="center"> Computer Science Graduate from Florida State University🍢 </h3>
 
 - I’m currently interested in backend and fullstack developement
-- 
 - I’ve made several projects, including a fullstack anime and manga website
 
 #### Connect with me!
